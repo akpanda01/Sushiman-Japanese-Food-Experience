@@ -3,6 +3,7 @@
 
 
 Discover the essence of Japanese cuisine with Sushiman! A responsive website showcasing popular Japanese dishes, built using HTML, CSS, and JavaScript for an engaging user experience.
+Deployed Link: https://sushiman-japanese-food-experience.vercel.app/
 ## Tech Stack
 
 - HTML: For creating the structure of the web pages.
